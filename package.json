@@ -1,0 +1,17 @@
+{
+  "name": "commitlink-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "01.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky install"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@commitlint/cli": "^17.6.5",
+    "@commitlint/config-conventional": "^17.6.5",
+    "husky": "^8.0.3"
+  }
+}
